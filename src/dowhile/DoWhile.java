@@ -6,7 +6,7 @@ public class DoWhile {
         do {
             System.out.println("такт " + n);
             n--;
-        } while (n >= 0);
+        } while (n >= 0); // второй вариант записи while (n-- > 0);
     }
 
 }
